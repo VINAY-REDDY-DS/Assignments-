@@ -1,5 +1,4 @@
-/*
-Write a program to copy elements of one array to another array*/ 
+/*Write a program to copy elements of one array to another array*/ 
 class CopyArrayElements 
 {
 	public static void main(String[] args) 
